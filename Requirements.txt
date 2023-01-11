@@ -1,0 +1,6 @@
+pandas 
+numpy 
+seaborn 
+matplotlib
+networkx 
+ipympl (for matplotlib widgets to make interactive plots)  
